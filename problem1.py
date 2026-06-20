@@ -63,6 +63,9 @@ if found == False:
     print("No non repeating characters were found ")    
     
     print("Hello")
+    
+def hello():
+    print("HI") 
         
         
           

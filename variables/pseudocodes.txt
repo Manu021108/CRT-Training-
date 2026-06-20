@@ -1,0 +1,30 @@
+Pseudocodes: Simple english steps representing 
+the program logic
+
+importance : to think logically 
+1.Planning 
+2.Logic building 
+3.understanding the algorithm 
+
+#Structure of the Pseudocodes
+
+START
+step-1
+step-2
+step-3
+step-4
+END
+
+Example: addition of two numbers
+
+START
+input the first number 
+input the second number
+add both numbers
+Display the results
+END
+
+#Write a Pseudocode for avg of numbers
+
+#Square of a number 
+#Area of a rectangle

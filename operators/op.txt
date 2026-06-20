@@ -1,0 +1,73 @@
+#Programming needs some symbols to do operations 
+
+Symbols ---> operators 
+
+Operators: performs the opewrations 
+between the operands
+
+1.Arithmetic operators 
+Addition --> +
+Substraction --> -
+division ---> /
+alaways returs the float value
+
+floor division ---> //
+rounds the value -->removes the decimals 
+Example:
+print(10//3)
+output: 3
+
+modular ---> % 
+Returns --> remainder
+Example: 
+print(10%3)
+output : 1 
+
+Power--> **
+Example: 2**3 --> 8
+
+#Assignment operators:
+
+Equal = -->Assigns a value 
++=
+-=
+/=
+*=
+%=
+
+
+total = total + 1 
+total +=1
+
+comparison & relational operators :
+to compare the values 
+and returns boolean value
+
+greater >
+smaller then <
+Equality == 
+greater or equal >=
+less then or equal <=
+Not Equal !=
+
+
+Logical Operators?
+
+To check the multiple conditions:
+1. and --> &  (When both of the conditions are true)
+2. or  --> |,` (Any one is true)
+3. not --> ~   (Opposite results)
+
+#Bitwise Operators:
+computer understand's o's and 1's
+
+performs operations bit by bit:
+it compares each and every bit 
+
+Operator   | Name
+&           Bitwise AND
+|            Bitwise or
+^            Bitwise XOR
+~           Bitwise Not
+<<           left shift 
+>>           Right shift 

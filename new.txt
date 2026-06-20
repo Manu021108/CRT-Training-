@@ -1,0 +1,129 @@
+What is programming?
+The set of instructions passed to computer to do some
+task
+
+Programming is a mode of language(communication)
+
+What is python?
+python is a high level dynamic programming language
+
+Introduced by?
+Guido van Rossum(1991)
+
+features?
+1.Easy to understand: human readable
+2.interpreted :Line by line execution 
+3.both compiled and interpreted.
+
+Example:C-Programming
+                      program 
+                          |
+                       compiler
+                          |
+                       Machine language      
+
+compiler---> generate the bytecode 
+Execution flow of python.
+
+                python programming
+                        |
+                    interpreter
+                        |
+                    Bytecode (Intermediate)  Portability becomes easier
+                        |
+              (PVM)Python virtual machine   
+                        |
+                Machine Language (Binary language)
+
+4.Dynamically typed:
+
+int a = 10;   c  --- 4 bytes 
+Dynamic memory allocation:
+1.free
+2.malloc
+3.calloc
+4.realloc
+
+
+Python:
+
+    a = 20    python --->int (28bytes)
+
+    GC --> Garbage collector 
+    reference count--->0  (Automatically freed )
+
+5.OOPS:To achieve the modular programming 
+
+Data Types:
+1.int
+2.float
+3.char
+4.String
+5.boolean
+6.double
+7.long
+8.short
+9.tuple
+10.list
+11.sets
+12.NONE
+13.array
+14.dict
+
+Main Data Types:
+
+data types:
+
+1.Numeric:int,float,complex
+2.Sequence:List,tuple,range,Strings
+3.boolean: bool 
+4.Sets : set,frozenset
+5.mapping: dict
+
+Main Primitive data types:
+1.int  : the whole numbers either -ve or +ve 
+2.float : decimal point numbers 
+3.bool : True/False
+4.String: '',"","""""",''''''
+5.None: 
+
+
+We need to find the first non repeating character?
+in a given String
+
+String == sequence of characters
+string -->Slicing 
+
+
+str = "a a b b c c h c c"
+       0 1 2 3 4 5 6 7 8
+    str[0] == a
+    str[1] == str[0]
+..........{h}
+
+
+R -->Read  10+10
+E -->Evaluate  sum
+P -->Print   20
+L -->Loop     
+
+
+C- programming
+#include<stdio.h>
+int main{
+    printf("hello world")
+}
+
+python:
+
+print("hello world")
+a, b , c 
+avg = (a+b+c)/3
+print(avg)
+
+
+#Divisible by 5 
+#Leap year ---? 
+
+Version Control(git)
+

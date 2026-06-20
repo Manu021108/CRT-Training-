@@ -1,0 +1,19 @@
+variable?
+
+It is a type of container where 
+the data is being stored
+
+python is dynamically typed:
+unlike c or java 
+int a = 10
+
+
+var_name = value
+Example:
+a = 10
+
+var_name,class,function names --->identifiers 
+
+
+
+
